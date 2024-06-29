@@ -164,7 +164,7 @@ main {
 
 .play-button {
   position: absolute;
-  bottom: 85px;
+  bottom: 90px;
   left: 50%;
   transform: translateX(-50%);
   background: #218838;
@@ -178,9 +178,9 @@ main {
   font-size: 12px;
   line-height: 15px;
 }
-@media (min-width: 992px) {
+@media (min-width: 746px) {
   .play-button {
-    bottom: 20px;
+    bottom: 30px;
   }
 
   .feature-box p {
